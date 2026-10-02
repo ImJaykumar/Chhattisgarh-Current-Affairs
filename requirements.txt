@@ -1,0 +1,5 @@
+streamlit
+feedparser
+beautifulsoup4
+google-genai
+tenacity
